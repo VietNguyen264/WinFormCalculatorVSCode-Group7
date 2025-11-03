@@ -1,0 +1,14 @@
+C:\Users\Giang\WinFormCalculatorVSCode\obj\Debug\net9.0-windows\WinFormCalculatorVSCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giang\WinFormCalculatorVSCode\obj\Debug\net9.0-windows\WinFormCalculatorVSCode.AssemblyInfoInputs.cache
+C:\Users\Giang\WinFormCalculatorVSCode\obj\Debug\net9.0-windows\WinFormCalculatorVSCode.AssemblyInfo.cs
+C:\Users\Giang\WinFormCalculatorVSCode\obj\Debug\net9.0-windows\WinFormCalculatorVSCode.csproj.CoreCompileInputs.cache
+C:\Users\Giang\WinFormCalculatorVSCode\bin\Debug\net9.0-windows\WinFormCalculatorVSCode.exe
+C:\Users\Giang\WinFormCalculatorVSCode\bin\Debug\net9.0-windows\WinFormCalculatorVSCode.deps.json
+C:\Users\Giang\WinFormCalculatorVSCode\bin\Debug\net9.0-windows\WinFormCalculatorVSCode.runtimeconfig.json
+C:\Users\Giang\WinFormCalculatorVSCode\bin\Debug\net9.0-windows\WinFormCalculatorVSCode.dll
+C:\Users\Giang\WinFormCalculatorVSCode\bin\Debug\net9.0-windows\WinFormCalculatorVSCode.pdb
+C:\Users\Giang\WinFormCalculatorVSCode\obj\Debug\net9.0-windows\WinFormCalculatorVSCode.dll
+C:\Users\Giang\WinFormCalculatorVSCode\obj\Debug\net9.0-windows\refint\WinFormCalculatorVSCode.dll
+C:\Users\Giang\WinFormCalculatorVSCode\obj\Debug\net9.0-windows\WinFormCalculatorVSCode.pdb
+C:\Users\Giang\WinFormCalculatorVSCode\obj\Debug\net9.0-windows\WinFormCalculatorVSCode.genruntimeconfig.cache
+C:\Users\Giang\WinFormCalculatorVSCode\obj\Debug\net9.0-windows\ref\WinFormCalculatorVSCode.dll
